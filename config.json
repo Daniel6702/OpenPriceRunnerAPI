@@ -1,0 +1,130 @@
+{
+    "CPU" :  {
+        "id" : 40,
+        "filters" :  [
+            {"id" : "PRICE", "name" : "Price"},
+            {"id" : "BRAND", "name" : "Brand"},
+            {"id" : "MERCHANT", "name" : "Merchant"},
+            {"id" : "RATING", "name" : "Rating"},
+            {"id" : "PRICE_DROP", "name" : "PriceDrop"},
+            {"id" : "60326873", "name" : "Cores"},
+            {"id" : "60498110", "name" : "Socket"},
+            {"id" : "60326919", "name" : "TCP"},
+            {"id" : "100000847", "name" : "BoxedCooler"},
+            {"id" : "60326920", "name" : "IntegratedGPU"},
+            {"id" : "100000842", "name" : "OverclockingSupport"}
+        ]
+    },
+    "GPU": {
+        "id" : 37,
+        "filters" : [
+            {"id" : "PRICE", "name" : "Price"},
+            {"id" : "BRAND", "name" : "Brand"},
+            {"id" : "MERCHANT", "name" : "Merchant"},
+            {"id" : "RATING", "name" : "Rating"},
+            {"id" : "PRICE_DROP", "name" : "PriceDrop"},
+            {"id" : "60534072", "name" : "Memory"},
+            {"id" : "60534010", "name" : "NumberOfFans"},
+            {"id" : "60389075", "name" : "NumberOfHDMI"},
+            {"id" : "102251", "name" : "NumberOfDisplayPort"},
+            {"id" : "60534041", "name" : "NumberOfMonitors"},
+            {"id" : "60534140", "name" : "RecommendedPSU"}
+        ] 
+    },
+    "CASE": {
+        "id" : 186,
+        "filters" : [
+            {"id" : "PRICE", "name" : "Price"},
+            {"id" : "BRAND", "name" : "Brand"},
+            {"id" : "MERCHANT", "name" : "Merchant"},
+            {"id" : "RATING", "name" : "Rating"},
+            {"id" : "PRICE_DROP", "name" : "PriceDrop"},
+            {"id" : "60461852", "name" : "MotherboardSupport"},
+            {"id" : "100003624", "name" : "Chassistype"},
+            {"id" : "100003389", "name" : "Window"},
+            {"id" : "101845", "name" : "Color"}
+        ] 
+    },
+    "RAM": {
+        "id" : 38,
+        "filters" : [
+            {"id" : "PRICE", "name" : "Price"},
+            {"id" : "BRAND", "name" : "Brand"},
+            {"id" : "MERCHANT", "name" : "Merchant"},
+            {"id" : "RATING", "name" : "Rating"},
+            {"id" : "PRICE_DROP", "name" : "PriceDrop"},
+            {"id" : "59919528", "name" : "Type"},
+            {"id" : "59869321", "name" : "Capacity"},
+            {"id" : "30299017", "name" : "Speed"},
+            {"id" : "59869330", "name" : "NumberOfModules"},
+            {"id" : "100003431", "name" : "DeviceType"},
+            {"id" : "59869361", "name" : "ECC"}
+        ] 
+    },
+    "MOTHERBOARD": {
+        "id" : 35,
+        "filters" : [
+            {"id" : "PRICE", "name" : "Price"},
+            {"id" : "BRAND", "name" : "Brand"},
+            {"id" : "MERCHANT", "name" : "Merchant"},
+            {"id" : "RATING", "name" : "Rating"},
+            {"id" : "PRICE_DROP", "name" : "PriceDrop"},
+            {"id" : "60478991", "name" : "Formfactor"},
+            {"id" : "60479069", "name" : "SocketAMD"},
+            {"id" : "60479153", "name" : "ChipsetAMD"},
+            {"id" : "60479056", "name" : "SocketIntel"},
+            {"id" : "60479081", "name" : "ChipsetIntel"},
+            {"id" : "57975947", "name" : "WiFi"},
+            {"id" : "60479268", "name" : "RAMSlots"},
+            {"id" : "60479262", "name" : "RAMType"},
+            {"id" : "60479306", "name" : "NumberOfPCIex16"},
+            {"id" : "100003409", "name" : "M2"},
+            {"id" : "60479388", "name" : "NumberOfM2"}
+        ] 
+    },
+    "COOLER": {
+        "id" : 184,
+        "filters" : [
+            {"id" : "PRICE", "name" : "Price"},
+            {"id" : "BRAND", "name" : "Brand"},
+            {"id" : "MERCHANT", "name" : "Merchant"},
+            {"id" : "RATING", "name" : "Rating"},
+            {"id" : "PRICE_DROP", "name" : "PriceDrop"},
+            {"id" : "40009778", "name" : "Subcategory"},
+            {"id" : "60014215", "name" : "Socket"},
+            {"id" : "60014247", "name" : "FanSize"},
+            {"id" : "60014248", "name" : "NumberOfFans"},
+            {"id" : "60014243", "name" : "SoundLevel"},
+            {"id" : "58090522", "name" : "WaterCooling"},
+            {"id" : "58090522", "name" : "WaterCooling"},
+            {"id" : "60014255", "name" : "LEDs"}
+        ],
+        "subcategories" : [
+            {"id" : "58068233", "name" : "AirCooler"},
+            {"id" : "40009780", "name" : "WaterCooler"},
+            {"id" : "40009779", "name" : "Fans"},
+            {"id" : "60022668", "name" : "ThermalPaste"},
+            {"id" : "60014287", "name" : "Controllers"},
+            {"id" : "40009783", "name" : "LaptopCooler"},
+            {"id" : "40009784", "name" : "SSDHeatsinks"},
+            {"id" : "60014292", "name" : "Filters"},
+            {"id" : "60020618", "name" : "GPUCooling"}
+        ]
+    },
+    "PSU": {
+        "id" : 640,
+        "filters" : [
+            {"id" : "PRICE", "name" : "Price"},
+            {"id" : "BRAND", "name" : "Brand"},
+            {"id" : "MERCHANT", "name" : "Merchant"},
+            {"id" : "RATING", "name" : "Rating"},
+            {"id" : "PRICE_DROP", "name" : "PriceDrop"},
+            {"id" : "58084610", "name" : "Effect"},
+            {"id" : "59740238", "name" : "80pluscertification"},
+            {"id" : "59740227", "name" : "Formfactor"},
+            {"id" : "60495087", "name" : "Modular"},
+            {"id" : "60495408", "name" : "Efficiency"},
+            {"id" : "101845", "name" : "Color"}
+        ] 
+    }
+}
