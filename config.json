@@ -90,18 +90,32 @@
             {"id" : "MERCHANT", "name" : "Merchant"},
             {"id" : "RATING", "name" : "Rating"},
             {"id" : "PRICE_DROP", "name" : "PriceDrop"},
-            {"id" : "40009778", "name" : "Subcategory"},
-            {"id" : "60014215", "name" : "Socket"},
-            {"id" : "60014247", "name" : "FanSize"},
-            {"id" : "60014248", "name" : "NumberOfFans"},
-            {"id" : "60014243", "name" : "SoundLevel"},
-            {"id" : "58090522", "name" : "WaterCooling"},
-            {"id" : "58090522", "name" : "WaterCooling"},
-            {"id" : "60014255", "name" : "LEDs"}
+            {"id" : "40009778", "name" : "Subcategory"}
         ],
         "subcategories" : [
-            {"id" : "58068233", "name" : "AirCooler"},
-            {"id" : "40009780", "name" : "WaterCooler"},
+            {
+                "id" : "58068233",
+                "name" : "AirCooler",
+                "filters" : [
+                    {"id" : "60014215", "name" : "Socket"},
+                    {"id" : "60014247", "name" : "FanSize"},
+                    {"id" : "60014248", "name" : "NumberOfFans"},
+                    {"id" : "60014243", "name" : "SoundLevel"},
+                    {"id" : "60014255", "name" : "LEDs"}
+                ]
+            },
+            {
+                "id" : "40009780",
+                "name" : "WaterCooler",
+                "filters" : [
+                    {"id" : "60014215", "name" : "Socket"},
+                    {"id" : "60014247", "name" : "FanSize"},
+                    {"id" : "60014248", "name" : "NumberOfFans"},
+                    {"id" : "60014243", "name" : "SoundLevel"},
+                    {"id" : "58090522", "name" : "WaterCooling"},
+                    {"id" : "60014255", "name" : "LEDs"}
+                ]
+            },
             {"id" : "40009779", "name" : "Fans"},
             {"id" : "60022668", "name" : "ThermalPaste"},
             {"id" : "60014287", "name" : "Controllers"},
