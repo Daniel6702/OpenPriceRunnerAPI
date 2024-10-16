@@ -1,0 +1,297 @@
+[
+    {
+        "id": "t1",
+        "name": "Lyd & Billede",
+        "path": "/t/1/Lyd-Billede"
+    },
+    {
+        "id": "t2",
+        "name": "Computer & Software",
+        "path": "/t/2/Computer-Software"
+    },
+    {
+        "id": "t3",
+        "name": "Hvidevarer",
+        "path": "/t/3/Hvidevarer"
+    },
+    {
+        "id": "t4",
+        "name": "Telefoni & Wearables",
+        "path": "/t/4/Telefoni-Wearables"
+    },
+    {
+        "id": "t9",
+        "name": "Computer hardware",
+        "path": "/t/9/Computer-hardware"
+    },
+    {
+        "id": "t10",
+        "name": "Skønhed & Helse",
+        "path": "/t/10/Skoenhed-Helse"
+    },
+    {
+        "id": "t11",
+        "name": "Autoudstyr & Både",
+        "path": "/t/11/Autoudstyr-Baade"
+    },
+    {
+        "id": "t14",
+        "name": "Køkkenapparater",
+        "path": "/t/14/Koekkenapparater"
+    },
+    {
+        "id": "t17",
+        "name": "Foto & Video",
+        "path": "/t/17/Foto-Video"
+    },
+    {
+        "id": "t18",
+        "name": "Lyd til Bil & Båd",
+        "path": "/t/18/Lyd-til-Bil-Baad"
+    },
+    {
+        "id": "t19",
+        "name": "Gaming & Underholdning",
+        "path": "/t/19/Gaming-Underholdning"
+    },
+    {
+        "id": "t20",
+        "name": "Netværk",
+        "path": "/t/20/Netvaerk"
+    },
+    {
+        "id": "t21",
+        "name": "Rejser",
+        "path": "/t/21/Rejser"
+    },
+    {
+        "id": "t22",
+        "name": "Computere",
+        "path": "/t/22/Computere"
+    },
+    {
+        "id": "t23",
+        "name": "Computerudstyr",
+        "path": "/t/23/Computerudstyr"
+    },
+    {
+        "id": "t24",
+        "name": "Lagring",
+        "path": "/t/24/Lagring"
+    },
+    {
+        "id": "t27",
+        "name": "Sport & Fritid",
+        "path": "/t/27/Sport-Fritid"
+    },
+    {
+        "id": "t34",
+        "name": "Hjem & Husholdning",
+        "path": "/t/34/Hjem-Husholdning"
+    },
+    {
+        "id": "t35",
+        "name": "Børn & Familie",
+        "path": "/t/35/Boern-Familie"
+    },
+    {
+        "id": "t36",
+        "name": "Kontorudstyr",
+        "path": "/t/36/Kontorudstyr"
+    },
+    {
+        "id": "t40",
+        "name": "Bøger, Film & Musik",
+        "path": "/t/40/Boeger-Film-Musik"
+    },
+    {
+        "id": "t47",
+        "name": "Software",
+        "path": "/t/47/Software"
+    },
+    {
+        "id": "t141",
+        "name": "Tøj & Tilbehør",
+        "path": "/t/141/Toej-Tilbehoer"
+    },
+    {
+        "id": "t182",
+        "name": "Renovering & Byggeri",
+        "path": "/t/182/Renovering-Byggeri"
+    },
+    {
+        "id": "t251",
+        "name": "Mad & Vin",
+        "path": "/t/251/Mad-Vin"
+    },
+    {
+        "id": "t1411",
+        "name": "Accessories",
+        "path": "/t/1411/Accessories"
+    },
+    {
+        "id": "t1414",
+        "name": "Skønhed",
+        "path": "/t/1414/Skoenhed"
+    },
+    {
+        "id": "t1416",
+        "name": "Sundhed",
+        "path": "/t/1416/Sundhed"
+    },
+    {
+        "id": "t1418",
+        "name": "Kontaktlinser & Briller",
+        "path": "/t/1418/Kontaktlinser-Briller"
+    },
+    {
+        "id": "t1422",
+        "name": "Personlig pleje",
+        "path": "/t/1422/Personlig-pleje"
+    },
+    {
+        "id": "t1424",
+        "name": "Have & Udemiljø",
+        "path": "/t/1424/Have-Udemiljoe"
+    },
+    {
+        "id": "t1426",
+        "name": "Hus",
+        "path": "/t/1426/Hus"
+    },
+    {
+        "id": "t1428",
+        "name": "Interiør & Møbler",
+        "path": "/t/1428/Interioer-Moebler"
+    },
+    {
+        "id": "t1432",
+        "name": "Byggevarer",
+        "path": "/t/1432/Byggevarer"
+    },
+    {
+        "id": "t1434",
+        "name": "VVS",
+        "path": "/t/1434/VVS"
+    },
+    {
+        "id": "t1446",
+        "name": "Badeværelse & Sauna",
+        "path": "/t/1446/Badevaerelse-Sauna"
+    },
+    {
+        "id": "t1448",
+        "name": "Køkken",
+        "path": "/t/1448/Koekken"
+    },
+    {
+        "id": "t1477",
+        "name": "Spil",
+        "path": "/t/1477/Spil"
+    },
+    {
+        "id": "t1479",
+        "name": "Retrospil",
+        "path": "/t/1479/Retrospil"
+    },
+    {
+        "id": "t1483",
+        "name": "Vintersport",
+        "path": "/t/1483/Vintersport"
+    },
+    {
+        "id": "t1484",
+        "name": "Boldsport",
+        "path": "/t/1484/Boldsport"
+    },
+    {
+        "id": "t1485",
+        "name": "Cykling",
+        "path": "/t/1485/Cykling"
+    },
+    {
+        "id": "t1486",
+        "name": "Ketchersport",
+        "path": "/t/1486/Ketchersport"
+    },
+    {
+        "id": "t1487",
+        "name": "Jagt, Fiskeri & Udeliv",
+        "path": "/t/1487/Jagt-Fiskeri-Udeliv"
+    },
+    {
+        "id": "t1489",
+        "name": "Skydesport & Paintball",
+        "path": "/t/1489/Skydesport-Paintball"
+    },
+    {
+        "id": "t1490",
+        "name": "Gulv, Tag & Væg",
+        "path": "/t/1490/Gulv-Tag-Vaeg"
+    },
+    {
+        "id": "t1491",
+        "name": "Udestuer, Tilbygninger & Skure",
+        "path": "/t/1491/Udestuer-Tilbygninger-Skure"
+    },
+    {
+        "id": "t1492",
+        "name": "Værktøj & Maskiner",
+        "path": "/t/1492/Vaerktoej-Maskiner"
+    },
+    {
+        "id": "t1493",
+        "name": "Legetøj & Hobby",
+        "path": "/t/1493/Legetoej-Hobby"
+    },
+    {
+        "id": "t1494",
+        "name": "Skateboard & Rulleskøjter",
+        "path": "/t/1494/Skateboard-Rulleskoejter"
+    },
+    {
+        "id": "t1500",
+        "name": "Køleskabe & Fryseskabe",
+        "path": "/t/1500/Koeleskabe-Fryseskabe"
+    },
+    {
+        "id": "t1550",
+        "name": "Komfur & Ovne",
+        "path": "/t/1550/Komfur-Ovne"
+    },
+    {
+        "id": "t1600",
+        "name": "Bruser & Badekar",
+        "path": "/t/1600/Bruser-Badekar"
+    },
+    {
+        "id": "t1601",
+        "name": "TV-tilbehør & Digital modtager",
+        "path": "/t/1601/TV-tilbehoer-Digital-modtager"
+    },
+    {
+        "id": "t1602",
+        "name": "Studie- & Optageudstyr",
+        "path": "/t/1602/Studie-Optageudstyr"
+    },
+    {
+        "id": "t1603",
+        "name": "DJ-udstyr, Karaoke & Effektmaskiner",
+        "path": "/t/1603/DJ-udstyr-Karaoke-Effektmaskiner"
+    },
+    {
+        "id": "t1604",
+        "name": "Hi-Fi udstyr",
+        "path": "/t/1604/Hi-Fi-udstyr"
+    },
+    {
+        "id": "t1605",
+        "name": "Projektorer & Tilbehør",
+        "path": "/t/1605/Projektorer-Tilbehoer"
+    },
+    {
+        "id": "t1606",
+        "name": "Musikinstrumenter & Tilbehør",
+        "path": "/t/1606/Musikinstrumenter-Tilbehoer"
+    }
+]
