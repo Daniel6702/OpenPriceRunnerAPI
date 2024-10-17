@@ -5,7 +5,7 @@ import os
 from colorama import init, Fore, Style
 import requests
 from typing import Optional, Dict, Any, List
-from models import *
+from old.models import *
 
 def load_categories(json_file):
     """Load categories from a JSON file with error handling."""

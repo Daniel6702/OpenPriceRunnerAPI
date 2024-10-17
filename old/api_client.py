@@ -3,7 +3,7 @@
 import requests
 from urllib.parse import urlencode
 from typing import Dict, Any, Optional
-from filter_manager import FilterManager
+from old.filter_manager import FilterManager
 
 
 class APIClient:
