@@ -102,8 +102,8 @@ def main():
     base_url = "https://www.pricerunner.dk/dk/api/search-compare-gateway/public/navigation/menu/DK/hierarchy/{param}"
 
     # Define the range
-    start = 0
-    end = 2000
+    start = 2000
+    end = 3000
 
     # Output filename
     output_filename = "output.json"

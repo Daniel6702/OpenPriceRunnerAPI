@@ -1,4 +1,4 @@
-from api_client import APIClient
+from api_client.api_client import APIClient
 
 '''
 Parameters:
@@ -31,7 +31,7 @@ Category Navigation: (Computer Hardware)
 https://www.pricerunner.dk/dk/api/search-compare-gateway/public/navigation/menu/DK/hierarchy/t9
 '''
 
-from api_client import APIClient
+from api_client.api_client import APIClient
 
 def main():
     api_client = APIClient(category_name="COOLER", config_path="config.json")

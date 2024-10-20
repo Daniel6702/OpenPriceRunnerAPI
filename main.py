@@ -1,4 +1,4 @@
-from base import *
+from api_client.base_layer import *
 
 subCategory = SubCategory(id='cl40')
 
